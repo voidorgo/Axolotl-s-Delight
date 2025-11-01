@@ -1,0 +1,21 @@
+# Compiled / build artifacts
+/build/
+/out/
+/classes/
+
+# Gradle
+.gradle/
+**/build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Run configurations, logs, caches
+/run/
+logs/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
